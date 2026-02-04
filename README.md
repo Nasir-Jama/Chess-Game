@@ -14,7 +14,6 @@ A simple chess game implemented in Python. This project aims to practice object-
 
 ## Installation
 1. Clone the repo:
-1. Clone the repo:
 
 git clone https://github.com/your-username/python-chess-game.git
 
